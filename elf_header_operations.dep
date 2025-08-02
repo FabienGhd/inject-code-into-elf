@@ -1,0 +1,2 @@
+elf_header_operations.o: src/elf_header_operations.c \
+ include/elf64_types.h

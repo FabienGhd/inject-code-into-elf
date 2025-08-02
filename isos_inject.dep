@@ -1,0 +1,3 @@
+isos_inject.o: src/isos_inject.c include/elf_header_operations.h \
+ include/elf64_types.h include/elf_section_operations.h \
+ include/elf_binary_operations.h include/elf_utilities.h include/parser.h

@@ -1,0 +1,2 @@
+elf_section_operations.o: src/elf_section_operations.c \
+ include/elf64_types.h

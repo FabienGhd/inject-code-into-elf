@@ -1,0 +1,1 @@
+parser.o: src/parser.c include/elf64_types.h
